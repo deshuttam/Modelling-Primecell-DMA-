@@ -15,6 +15,14 @@ In SystemC, this method can be implemented using a simple bus interface which su
 ![image](https://user-images.githubusercontent.com/107185323/198981523-a5de214d-003b-49cb-860e-ee60789b76c6.png)
 
 
+## The repository includes
+1. DMA Code in C++
+2. Test Bench Code in C++
+3. Header Files.
+
+## Software Requirement
+* Linux System
+
 ## Test Cases
 Case 1: - When source width is equal to destination width.
 Steps: -
@@ -67,12 +75,6 @@ Increment destination address after every transfer :- Yes.
 Master port 1 connected to source
 Master port 1 connected to destination
 ![image](https://user-images.githubusercontent.com/107185323/198982515-01588212-91b9-4f92-b43c-e4f9aa54d1a2.png)
-
-
-## The repository includes
-1. DMA Code in C++
-2. Test Bench Code in C++
-3. Header Files.
 
 
 ## Usage
