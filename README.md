@@ -15,7 +15,7 @@ In SystemC, this method can be implemented using a simple bus interface which su
 ![image](https://user-images.githubusercontent.com/107185323/198981523-a5de214d-003b-49cb-860e-ee60789b76c6.png)
 
 
-## Testing
+## Test Cases
 Case 1: - When source width is equal to destination width.
 Steps: -
 1) START
